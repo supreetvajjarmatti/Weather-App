@@ -1,5 +1,6 @@
 # Weather-App
 
+https://github.com/supreetvajjarmatti/Weather-App.git 
 
 To create your own weather app project using HTML, Bootstrap, and JavaScript, follow these step-by-step instructions:
 
@@ -9,4 +10,10 @@ To create your own weather app project using HTML, Bootstrap, and JavaScript, fo
 4. Create a script.js file. The file name must be script and its extension .js
 
 
-<p>Please note that your weather app is currently unable to retrieve weather details because you have not provided your API key in the AP_KEY variable. To get a free API key from OpenWeatherMap, sign up for an account at https://home.openweathermap.org/api_keys.<p/>
+Please note that your weather app is currently unable to retrieve weather details because you have not provided your API key in the AP_KEY variable. To get a free API key from OpenWeatherMap, sign up for an account at https://home.openweathermap.org/api_keys.
+
+
+#html #css #bootstrap #javascript
+
+
+<!-- Coding By Supreet vajjaramatti - https://github.com/supreetvajjarmatti/Weather-App.git -->
